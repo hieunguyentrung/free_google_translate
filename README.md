@@ -1,3 +1,7 @@
+### Status
+[![Build Status](https://api.travis-ci.org/repositories/nhieu92/free_google_translate.svg)](https://travis-ci.org/nhieu92/free_google_translate)
+![](http://ruby-gem-downloads-badge.herokuapp.com/free_google_translate?type=total)
+
 ## A free and unlimited API for Google Translate without authentication
 Yes, you can using this gem without any authentication or API key.
 
